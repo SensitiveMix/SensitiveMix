@@ -10,4 +10,4 @@
 <br/>
 
 ### 🌈 My Github State
-![Jack-Sun's github stats](https://github-readme-stats.vercel.app/api?username=SensitiveMix&theme=dark&show_icons=true)
+![Jack-Sun's github stats](https://github-readme-stats.vercel.app/api?username=SensitiveMix&theme=default&show_icons=true)
