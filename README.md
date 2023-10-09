@@ -1,4 +1,4 @@
-### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"> Hi there, I'm <a href="https://sensitivemix.github.io/">Jack Sun</a> 👋
+### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px">Hi there, I'm <a href="https://sensitivemix.github.io/">Jack Sun</a> 👋
 
 ### 📝 Code I like
 
