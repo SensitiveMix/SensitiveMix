@@ -10,12 +10,11 @@
 
 <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/> <img src ="https://img.shields.io/badge/mysql%20-%231572B6.svg?&style=for-the-badge&logo=mysql&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/elasticsearch-%234ea94b.svg?&style=for-the-badge&logo=elasticsearch&logoColor=white"/> <img src="https://img.shields.io/badge/redis%20-%23E34F26.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
 
-
-### 🌈 My Github State
-![Jack-Sun's github stats](https://github-readme-stats.vercel.app/api?username=SensitiveMix&theme=default&show_icons=true)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wdndev/wdndev/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wdndev/wdndev/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wdndev/wdndev/output/github-contribution-grid-snake.svg">
 </picture>
+
+### 🌈 My Github State
+![Jack-Sun's github stats](https://github-readme-stats.vercel.app/api?username=SensitiveMix&theme=default&show_icons=true)
